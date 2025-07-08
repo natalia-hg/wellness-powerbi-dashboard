@@ -8,12 +8,12 @@ I’m excited to share my latest Power BI dashboard built as part of a hands-on 
 
 This interactive dashboard explores key performance indicators such as:
 
-📈 **Total Sales Analysis**  
-📦 **Top-Selling Products by Quantity**  
-👥 **Customer Segment Insights**  
-🗺️ **Sales by Region (Map Visualization)**  
-📊 **Sales Channel Analysis**  
-📅 **Monthly Sales Trends**
+ **Total Sales Analysis**  
+ **Top-Selling Products by Quantity**  
+ **Customer Segment Insights**  
+ **Sales by Region (Map Visualization)**  
+ **Sales Channel Analysis**  
+ **Monthly Sales Trends**
 
 ---
 
